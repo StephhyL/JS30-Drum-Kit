@@ -1,6 +1,8 @@
-# JS30-Drum-Kit
+## Summary
 
-Day 1 of the [30 Day Vanilla JavaScript Coding Challenge](https://javascript30.com/) by Wes Bos!
+`Drum Kit` is an application that plays sounds when specific keys are pressed on the keyboard.In addition to sound, when a key is selected, the key will lightup and enlarge a bit.
+
+The is Day 1 of the [30 Day Vanilla JavaScript Coding Challenge](https://javascript30.com/) by Wes Bos! The base code was provided.
 
 ## Check it out on Heroku
 
@@ -15,3 +17,15 @@ Link: https://js30-drum-kit.herokuapp.com/
 - audio.play()
 - adding eventListeners
 - querySelectors
+
+## Getting Started
+
+1. Clone repo
+2. `npm i`
+3. `npm start`
+4. visit `localhost:3000`
+
+## Dependencies
+
+- node
+- Express
