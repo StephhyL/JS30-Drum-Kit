@@ -1,6 +1,6 @@
 ## Summary
 
-`Drum Kit` is an application that plays sounds when specific keys are pressed on the keyboard.In addition to sound, when a key is selected, the key will lightup and enlarge a bit.
+**Drum Kit** is an application that plays sounds when specific keys are pressed on the keyboard.In addition to sound, when a key is selected, the key will lightup and enlarge a bit.
 
 The is Day 1 of the [30 Day Vanilla JavaScript Coding Challenge](https://javascript30.com/) by Wes Bos! The base code was provided.
 
