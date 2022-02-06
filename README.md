@@ -1,6 +1,6 @@
 # JS30-Drum-Kit
 
-Day 1 of the 30 Day JavaScript Challenge by Wes Bos!
+Day 1 of the [30 Day Vanilla JavaScript Coding Challenge](https://javascript30.com/) by Wes Bos!
 
 ## Check it out on Heroku
 
