@@ -64,5 +64,15 @@
     <audio data-key="74" src="sounds/snare.wav"></audio>
     <audio data-key="75" src="sounds/tom.wav"></audio>
     <audio data-key="76" src="sounds/tink.wav"></audio>
+
+    <script>
+      window.addEventListener("keydown", function (e) {
+        //the console.log(e.keyCode) <--- gives you that keycode, eg. 65 if hitting a
+        const audio = document.querySelector(`audio[data-key="${e.keyCode}"]`);
+        console.log(audio);
+        if (!audio) return;
+        audio.play();
+      });
+    </script>
   </body>
 </html>
